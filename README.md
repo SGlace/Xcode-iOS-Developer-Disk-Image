@@ -1,7 +1,7 @@
-# Xcode Developer Disk Image for iOS 4.2 and Above
-
-Download ZIP: [https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image/releases](https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image/releases)
-
-Path: `/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport`
-
-Tip: Restart the Xcode
+## ABP/ublock订阅规则
+1. ad-pc.txt：[推荐桌面端]合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance，以及补充的一些规则；
+1. ad-mo.txt：合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance；
+3. ad.txt：[推荐移动端]合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则；
+4. ad2.txt：合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance；
+5. ad3.txt：合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy；
+6. ad-edentw.txt：合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters。
